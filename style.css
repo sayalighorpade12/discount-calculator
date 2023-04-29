@@ -2,7 +2,7 @@
     color: white;
 }
 body{
-    background-color: rgb(191, 236, 215);
+    background-color: rgb(218, 218, 218);
 }
 .container{
     width: 800px;
@@ -19,7 +19,7 @@ h2 {
     text-transform: uppercase;
     text-shadow: 2px 2px 3px black;
     font-family: 'Righteous', cursive;
-    font-size: xx-large;
+   
 }
 p{
     font-family: 'Roboto Slab', serif;
